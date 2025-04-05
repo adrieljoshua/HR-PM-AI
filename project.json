@@ -1,0 +1,122 @@
+[
+  {
+    "module": "Chat Interface",
+    "submodules": [
+      {
+        "title": "User Interaction",
+        "description": "An intuitive chat interface that allows users to describe their project ideas in natural language, making it accessible for everyone, regardless of technical expertise.",
+        "selected": true
+      },
+      {
+        "title": "AI Response Generation",
+        "description": "Utilizes advanced natural language processing to interpret user inputs and generate relevant responses, guiding users through the project creation process.",
+        "selected": true
+      },
+      {
+        "title": "Feedback Mechanism",
+        "description": "Allows users to provide feedback on AI suggestions, improving the chatbot's accuracy and relevance over time through machine learning.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Project Structuring",
+    "submodules": [
+      {
+        "title": "Module Breakdown",
+        "description": "AI analyzes the project idea and breaks it down into manageable modules, ensuring a clear structure that facilitates project execution.",
+        "selected": true
+      },
+      {
+        "title": "Timeline Estimation",
+        "description": "Automatically generates timelines for each module based on complexity and resource availability, helping users visualize project milestones.",
+        "selected": true
+      },
+      {
+        "title": "Budget Allocation",
+        "description": "Estimates costs associated with each module and allocates budget accordingly, providing users with a financial overview of their project.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Resource Management",
+    "submodules": [
+      {
+        "title": "Task Assignment",
+        "description": "AI assigns tasks to contributors based on their skills, availability, and past performance, ensuring optimal resource utilization and productivity.",
+        "selected": true
+      },
+      {
+        "title": "Skill Matrix",
+        "description": "Maintains a comprehensive skill matrix of all contributors, allowing the AI to make informed decisions when assigning tasks and identifying gaps in expertise.",
+        "selected": true
+      },
+      {
+        "title": "Availability Tracking",
+        "description": "Monitors contributor availability in real-time, enabling dynamic task reallocation and ensuring that project timelines are met.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Progress Tracking",
+    "submodules": [
+      {
+        "title": "Progress Monitoring",
+        "description": "Continuously tracks the progress of tasks and modules, providing users with real-time updates and insights into project status.",
+        "selected": true
+      },
+      {
+        "title": "Nudge Notifications",
+        "description": "Sends automated nudges to contributors to remind them of upcoming deadlines or pending tasks, helping to keep the project on track.",
+        "selected": true
+      },
+      {
+        "title": "Reallocation of Work",
+        "description": "If progress stalls, the AI can reallocate tasks to other contributors based on their availability and workload, ensuring that the project remains on schedule.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Dispute Resolution & Payments",
+    "submodules": [
+      {
+        "title": "Dispute Handling",
+        "description": "Facilitates resolution of disputes between contributors by providing a structured process for raising and addressing issues, ensuring a harmonious working environment.",
+        "selected": true
+      },
+      {
+        "title": "Task Approval",
+        "description": "Allows project managers to review and approve completed tasks before payments are released, ensuring quality control and accountability.",
+        "selected": true
+      },
+      {
+        "title": "Automated Payments",
+        "description": "Integrates with smart contracts to automate fund disbursement upon task completion, ensuring timely payments and reducing administrative overhead.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Human Resource Management",
+    "submodules": [
+      {
+        "title": "Contributor Onboarding",
+        "description": "Streamlines the onboarding process using Self Protocol to verify identity, roles, and credentials, ensuring that all contributors are properly vetted.",
+        "selected": true
+      },
+      {
+        "title": "Performance Tracking",
+        "description": "Maintains a performance-based reputation system that evaluates contributors based on their work quality and timeliness, influencing future task assignments and incentives.",
+        "selected": true
+      },
+      {
+        "title": "DAO Voting Mechanism",
+        "description": "Enables contributors to participate in DAO voting for hiring or expelling team members, fostering a democratic and transparent team environment.",
+        "selected": true
+      }
+    ]
+  }
+]
